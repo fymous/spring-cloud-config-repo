@@ -2,7 +2,5 @@ my:
   data: Hello World
   list:
     values: One, Two, Three
-db:
-  connection: conn-string
-  host: 127.0.0.1
-  
+auth:
+  url: https://localhost:7979  
