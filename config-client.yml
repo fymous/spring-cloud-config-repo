@@ -1,0 +1,7 @@
+client-1:
+        app-name:config-client
+        url:http://localhost:7878/api/v1
+auth:
+  url:https://localhost:7979/test-override
+specific:
+  url:https://localhost:7878/config-client
